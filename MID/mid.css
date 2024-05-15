@@ -1,0 +1,84 @@
+.header img{
+	width: 1366px;
+	height: 117px;
+}
+
+.header h1 {
+	position: absolute;
+	color: #F4A460;
+	font-size: 50px;
+	margin-left: 20px;
+	margin-top: 10px;
+}
+
+.header p{
+	position: absolute;
+	color: #F4A460;
+	font-size: 20px;
+	margin-left: 20px;
+	margin-top: 60px;
+}
+
+.header h4{
+	position: absolute;
+	color: #F4A460;
+	font-size: 15px;
+	margin-left: 20px;
+	margin-top: 83px;
+}
+
+
+.isi img {
+	margin-top: 159px;
+	margin-left: 440px;
+	border-radius: 50%;
+	width: 250px;
+	height: 200px;
+
+}
+
+.isi {
+	background: #DEB887;
+	height: 550px;
+}
+
+.isi h2 {
+	position: absolute;
+	color: black;
+	font-size: 30px;
+	margin-left: 275px;
+	margin-top: 20px;
+}
+
+.kalimat h2{
+	margin-top: 75px;
+
+}
+.kalimat img{
+	margin-top: 45px;
+	margin-left: 350px;
+}
+
+.kalimat p{
+	margin-top: 50px;
+}
+
+.produk{
+	background: #DEB887;
+}
+
+.produk h2{
+	margin-top: 75px;	
+}
+
+.table1{
+	margin-top: 50px;
+}
+
+
+
+
+*{
+	padding: 0px;
+	margin: 0px;
+}
